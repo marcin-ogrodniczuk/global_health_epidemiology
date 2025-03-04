@@ -1,2 +1,2 @@
 # global_health_epidemiology
-cancer stats
+This repository contains a dataset on global cancer statistics, enabling an in-depth analysis of trends in cancer incidence, mortality, and survival rates across different regions and demographics. It showcases my ability to clean, explore, and visualize epidemiological data to uncover patterns in disease prevalence and risk factors. Additionally, it demonstrates my proficiency in predictive modeling by forecasting future cancer trends, helping to identify potential public health challenges and inform policy decisions.
